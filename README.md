@@ -1,1 +1,1 @@
-This repo is for skripts created for Cisco's Nexus 9ks.
+This repo is for scripts created for Cisco's Nexus 9ks.
