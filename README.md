@@ -8,8 +8,11 @@ Each script requires a text file to read in the ip address, username and passwor
 Your file should be formatted with the three items as follows:
 
 'ip address' 'username' 'password'
+
 'ip address' 'username' 'password'
+
 'ip address' 'username' 'password'
+
 etc..
 
 Some scripts require the device.py module to be downloaded as well.
