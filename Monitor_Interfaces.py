@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+"Darius Carrier / dacarrie@cisco.com"
+
 '''
 The goal of this script is to monitor the "up" interfaces on switches that you choose
 and notify the administrator, through email, when one of those interfaces goes down
