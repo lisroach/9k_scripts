@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-
 '''Reads in IP address from a file and outputs the ip interface brief info for each.
  
 How to call:
