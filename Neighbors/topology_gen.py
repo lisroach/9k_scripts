@@ -18,10 +18,9 @@ def main():
 			for address in fp:
 				address = address.rstrip()
 				address = address.replace("'", "")
-				#if address:
-					#get_lldp.get_switch(str(address), username, password, working_file)
-
-		l3_scrape.bgpcreation(username, password, working_file)
+				if address:
+					get_lldp.get_switch(str(address), username, password, working_file)
+					l3_scrape.bgpcreation(username, password, working_file, address)
 
 					
 
