@@ -1,2 +1,0 @@
-DEB [20150916-15:00:03.261] thr=1   paramiko.transport: [chan 1] Max packet in: 34816 bytes
-WAR [20150916-15:00:03.264] thr=2   paramiko.transport: Oops, unhandled type 3
